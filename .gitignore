@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Arduino secrets
+secrets.h
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
